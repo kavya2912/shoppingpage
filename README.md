@@ -1,6 +1,7 @@
 # shoppingpage
 
 A new Flutter project.
+My major project 
 
 ## Getting Started
 
