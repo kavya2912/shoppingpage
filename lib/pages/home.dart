@@ -59,9 +59,7 @@ class _HomeState extends State<Home> {
               height: 30.0,
             ),
             Container(
-              //padding: const EdgeInsets.only(
-              // left: 20.0,
-              // ),
+             
               decoration: BoxDecoration(
                   color: Colors.white, borderRadius: BorderRadius.circular(10)),
               width: MediaQuery.of(context).size.width,
